@@ -1,4 +1,4 @@
-# Sustainable Fashion Store
+# Linen-Eco : Sustainable Fashion Store
 
 Welcome to our online fashion store made with Django, dedicated to providing sustainable and eco-friendly fashion choices. Our store features a range of stylish and environmentally conscious products, ensuring you can look great while supporting the planet.
 
